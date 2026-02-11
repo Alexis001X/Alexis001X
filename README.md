@@ -6,10 +6,10 @@
 ### <div align="center">Hola, mi nombre es Alexis y soy desarrollador de software Jr.</div>  
   
 
-- 🔭Actualmente busco mi primer trabajo como desarrollador de software con preferencia en frontend, pero con conocimientos solidos de backend y bases de datos 
+- 🔭Actualmente trabajo de manera independiente en modalidad hibrida
   
 
-- 🌱 Actualmente me encuentro aprendiendo Phyton, Dart, MongoDB y Ciencia de datos
+- 🌱 Hace unos meses comence mis estudios de Ingenieria en sistemas inteligentes
   
 
 - 💻Dale un vistazo a mis proyectos, se actualizan constantemente  
