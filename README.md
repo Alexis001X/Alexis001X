@@ -78,69 +78,20 @@ AI              → Uso de herramientas de IA como apoyo al desarrollo, sin depe
 
 MVC · REST APIs · Component-based UI · Responsive Design · SQL · Git Workflow · Testing · Documentación
 
-📌 Proyectos destacados
-
-💧 Sistema de Gestión y Facturación de Agua
-
-Proyecto profesional — Full Stack
-
-Sistema diseñado para administrar usuarios, lecturas, facturación y procesos relacionados con un servicio de agua potable.
-
-Tecnologías: React · Vite · Laravel · SQLite · MVC · SRI / Facturación electrónica
-
-Destaca por:
-
-Gestión de clientes y lecturas.
-
-Generación y control de facturas.
-
-Dashboard y visualización de datos.
-
-Impresión de documentos.
-
-Copias de seguridad.
-
-Arquitectura organizada por responsabilidades.
-
-🔗 Repositorio: https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME
-
-🎨 White Pixel Development
-
-Proyecto personal / marca freelance
-
-Espacio orientado al desarrollo de soluciones digitales, interfaces y proyectos personalizados.
-
-Tecnologías: HTML · CSS · JavaScript · PHP · React · Bootstrap
-
-Enfoque: desarrollo web, diseño de interfaces y construcción de productos digitales con una identidad visual propia.
-
-🔗 Repositorio / Portfolio: https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME
-
-🧙‍♀️ Lilian — 16-bit Action Platformer
-
-Proyecto de desarrollo de videojuegos
-
-Videojuego de acción y plataformas inspirado en clásicos de 16 bits, con una protagonista antiheroína y una estética oscura.
-
-Conceptos: Gameplay · Level Design · Character Design · Game Development
-
-Objetivo del proyecto: combinar acción rápida, personalidad de personajes y una dirección artística coherente.
-
-🔗 Repositorio / Página del proyecto: https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME
 
 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexis001X&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis001X&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexis001X&hide_border=true&theme=transparent" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true&theme=github-compact" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexis001X&hide_border=true&area=true&theme=github-compact" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 ℹ️ Las estadísticas se generan a partir de la actividad pública disponible en GitHub. La tarjeta de lenguajes representa el uso de lenguajes en repositorios, no un nivel de habilidad.
@@ -190,13 +141,13 @@ YouTube
 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Alexis001X">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/alexis-daniel-mena-parco">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:alexismenadev09@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@YOUR_YOUTUBE_USERNAME">
