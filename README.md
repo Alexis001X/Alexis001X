@@ -1,68 +1,221 @@
-# Hola, soy Alexis Mena 👋
-### 👨‍💻 Tecnólogo en Software | 🎓 Estudiante de Ingeniería en Sistemas Inteligentes
+👋 Hola, soy Alexis
 
-¡Bienvenido a mi perfil! Soy un desarrollador apasionado por la evolución del software hacia la **Inteligencia Artificial**. Combino una sólida experiencia técnica en desarrollo con nuevos paradigmas de **Ingeniería de Datos y Automatización**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:111827,100:2563EB&height=220&section=header&text=Alexis%20%7C%20Software%20Developer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Construyendo%20software%20%C3%BAtil%2C%20escalable%20y%20con%20identidad&descSize=16&descAlignY=60&descAlign=50" alt="Portada de Alexis" width="100%"/>
+</p>
 
-- 🔭 Actualmente trabajando en proyectos con **React, Node.js y Supabase**.
-- 🌱 Estudiando a profundidad **Sistemas Inteligentes, Agentes de IA y Análisis de Datos (Pandas)**.
-- 👯 Busco colaborar en proyectos de **Desarrollo Web Moderno** e integración de IA.
-- ⚡ Dato curioso: Uso agentes de IA para optimizar mis flujos de trabajo de desarrollo (Vibe Coding).
-
----
-
-### 🛠️ Tech Stack
-
-**Lenguajes y Core:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Frontend & Maquetado:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend, Nube & Datos:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Herramientas & Automatización:**
-![Power Apps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-<a href="https://github.com/Alexis001X">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexis001X&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis001X&layout=compact&theme=tokyonight"/>
-</a>
-</div>
-
----
-
-### 🎧 Lo que escucho mientras programo (Vibe Coding)
-
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=TU_ID_DE_SPOTIFY&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_ID_DE_SPOTIFY&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2563EB&style=flat" alt="Profile views"/>
   </a>
-</div>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-111827?style=flat" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Ecuador-111827?style=flat" alt="Location"/>
+</p>
 
----
+🧑‍💻 Sobre mí
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexis-daniel-mena-parco/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+Soy desarrollador de software junior y estudiante de Ingeniería en Sistemas Inteligentes, con interés en crear aplicaciones que combinen una buena experiencia de usuario con soluciones prácticas y mantenibles.
+
+Me gusta trabajar desde una perspectiva Full-Stack, aunque actualmente pongo especial atención en el desarrollo Front-End, la arquitectura de aplicaciones y la construcción de sistemas orientados a necesidades reales.
+
+Mi forma de aprender es principalmente práctica: construir, probar, equivocarme, corregir y documentar.
+
+Mi objetivo: convertir ideas en productos funcionales, claros y bien estructurados.
+
+🚀 Lo que estoy construyendo
+
+Frontend        → Interfaces modernas, componentes reutilizables y experiencias responsive
+Backend         → APIs, lógica de negocio, MVC y persistencia de datos
+Data            → SQL, SQLite, MySQL y estructuras orientadas a sistemas reales
+Workflow        → Git, GitHub, documentación, testing y mejora continua
+AI              → Uso de herramientas de IA como apoyo al desarrollo, sin depender de ellas
+
+🛠️ Tech Stack
+
+🎨 Front-End
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+⚙️ Back-End
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+🗄️ Bases de datos
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+🔧 Control de versiones & herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+🧠 Conceptos que aplico
+
+MVC · REST APIs · Component-based UI · Responsive Design · SQL · Git Workflow · Testing · Documentación
+
+📌 Proyectos destacados
+
+💧 Sistema de Gestión y Facturación de Agua
+
+Proyecto profesional — Full Stack
+
+Sistema diseñado para administrar usuarios, lecturas, facturación y procesos relacionados con un servicio de agua potable.
+
+Tecnologías: React · Vite · Laravel · SQLite · MVC · SRI / Facturación electrónica
+
+Destaca por:
+
+Gestión de clientes y lecturas.
+
+Generación y control de facturas.
+
+Dashboard y visualización de datos.
+
+Impresión de documentos.
+
+Copias de seguridad.
+
+Arquitectura organizada por responsabilidades.
+
+🔗 Repositorio: https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME
+
+🎨 White Pixel Development
+
+Proyecto personal / marca freelance
+
+Espacio orientado al desarrollo de soluciones digitales, interfaces y proyectos personalizados.
+
+Tecnologías: HTML · CSS · JavaScript · PHP · React · Bootstrap
+
+Enfoque: desarrollo web, diseño de interfaces y construcción de productos digitales con una identidad visual propia.
+
+🔗 Repositorio / Portfolio: https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME
+
+🧙‍♀️ Lilian — 16-bit Action Platformer
+
+Proyecto de desarrollo de videojuegos
+
+Videojuego de acción y plataformas inspirado en clásicos de 16 bits, con una protagonista antiheroína y una estética oscura.
+
+Conceptos: Gameplay · Level Design · Character Design · Game Development
+
+Objetivo del proyecto: combinar acción rápida, personalidad de personajes y una dirección artística coherente.
+
+🔗 Repositorio / Página del proyecto: https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME
+
+📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true&theme=github-compact" alt="GitHub Activity Graph" width="100%"/>
+</p>
+
+ℹ️ Las estadísticas se generan a partir de la actividad pública disponible en GitHub. La tarjeta de lenguajes representa el uso de lenguajes en repositorios, no un nivel de habilidad.
+
+🎯 Actualmente
+
+learning:
+  - TypeScript
+  - React
+  - Next.js
+  - Node.js
+  - SQL
+  - Git & GitHub
+
+improving:
+  - Front-End architecture
+  - Full-Stack development
+  - Software design
+  - English communication
+
+building:
+  - Real-world web applications
+  - Personal projects
+  - Portfolio and developer identity
+
+🎧 Lo que escucho mientras programo
+
+Spotify
+
+<!-- OPCIONAL: reemplaza este enlace por tu perfil o playlist -->
+
+
+
+<!--
+PARA "NOW PLAYING":
+Puedes conectar un widget dinámico de Spotify cuando quieras.
+No coloques Client ID, Client Secret ni Refresh Token directamente en este README.
+Guárdalos como GitHub Secrets mediante el proyecto/Action que elijas.
+-->
+
+YouTube
+
+
+
+🎵 Código, música y demasiadas pestañas abiertas.
+
+🌐 Conecta conmigo
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:alexismenadev09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@YOUR_YOUTUBE_USERNAME">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+🧩 Mi filosofía
+
+Aprender construyendo.
+
+No busco únicamente escribir código que funcione.
+Busco entender el problema, construir una solución clara,
+mejorarla con cada iteración y dejar algo que pueda mantenerse.
+
+<p align="center">
+  <sub>Diseñado y construido por Alexis · Software Developer</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer" alt="Footer"/>
+</p>
