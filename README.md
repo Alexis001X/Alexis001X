@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2563EB&style=flat" alt="Profile views"/>
+  <a href="https://github.com/Alexis001X">
+    <img src="https://komarev.com/ghpvc/?username=Alexis001X&label=Profile%20Views&color=2563EB&style=flat" alt="Profile views"/>
   </a>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-111827?style=flat" alt="Focus"/>
   <img src="https://img.shields.io/badge/Location-Ecuador-111827?style=flat" alt="Location"/>
