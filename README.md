@@ -45,7 +45,7 @@ AI              → Uso de herramientas de IA como apoyo al desarrollo, sin depe
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-⚙️ Back-End
+⚙️ <b>Back-End</b>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -58,14 +58,14 @@ AI              → Uso de herramientas de IA como apoyo al desarrollo, sin depe
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
-🗄️ Bases de datos
+🗄️ <b>Bases de datos</b>
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-🔧 Control de versiones & herramientas
+🔧 <b>Control de versiones & herramientas</b>
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -74,12 +74,12 @@ AI              → Uso de herramientas de IA como apoyo al desarrollo, sin depe
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-🧠 Conceptos que aplico
+🧠 <b>Conceptos que aplico</b>
 
 MVC · REST APIs · Component-based UI · Responsive Design · SQL · Git Workflow · Testing · Documentación
 
 
-📊 GitHub Stats
+📊 <b>GitHub Stats</b>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexis001X&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
@@ -96,30 +96,29 @@ MVC · REST APIs · Component-based UI · Responsive Design · SQL · Git Workfl
 
 ℹ️ Las estadísticas se generan a partir de la actividad pública disponible en GitHub. La tarjeta de lenguajes representa el uso de lenguajes en repositorios, no un nivel de habilidad.
 
-🎯 Actualmente
+🎯 <b>Actualmente</b>
 
-learning:
-  - TypeScript
-  - React
-  - Next.js
-  - Node.js
-  - SQL
-  - Git & GitHub
+<b>Aprendiendo:</b>
+  - Simulación de sistemas
+  - Data Mining
+  - SpringBoot
+  - React Native
+  - SQLServer
 
-improving:
-  - Front-End architecture
-  - Full-Stack development
-  - Software design
-  - English communication
+<b>Aplicando:</b>
+  - Arquitectura Front-End
+  - Diseño de Software
+  - Patrones de diseño
+  - Desarrollo asistido por IA
 
-building:
-  - Real-world web applications
-  - Personal projects
-  - Portfolio and developer identity
+<b>Construyendo:</b>
+  - Aplicaciones robustas y escalables
+  - Proyectos con integración a API de IA
+  - Aplicaciones moviles
 
 🎧 Lo que escucho mientras programo
 
-Spotify
+<b>Spotify<b>
 
 <!-- OPCIONAL: reemplaza este enlace por tu perfil o playlist -->
 
@@ -132,13 +131,13 @@ No coloques Client ID, Client Secret ni Refresh Token directamente en este READM
 Guárdalos como GitHub Secrets mediante el proyecto/Action que elijas.
 -->
 
-YouTube
+<b>YouTube<b>
 
 
 
 🎵 Código, música y demasiadas pestañas abiertas.
 
-🌐 Conecta conmigo
+🌐 <b>Conecta conmigo</b>
 
 <p align="center">
   <a href="https://github.com/Alexis001X">
@@ -155,7 +154,7 @@ YouTube
   </a>
 </p>
 
-🧩 Mi filosofía
+🧩 <b>Mi filosofía</b>
 
 Aprender construyendo.
 
