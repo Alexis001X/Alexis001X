@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Location-Ecuador-111827?style=flat" alt="Location"/>
 </p>
 
-🧑‍💻 Sobre mí
+<b>🧑‍💻 Sobre mí </b>
 
 Soy desarrollador de software junior y estudiante de Ingeniería en Sistemas Inteligentes, con interés en crear aplicaciones que combinen una buena experiencia de usuario con soluciones prácticas y mantenibles.
 
@@ -22,7 +22,7 @@ Mi forma de aprender es principalmente práctica: construir, probar, equivocarme
 
 Mi objetivo: convertir ideas en productos funcionales, claros y bien estructurados.
 
-🚀 Lo que estoy construyendo
+🚀 <b>Lo que estoy construyendo</b>
 
 Frontend        → Interfaces modernas, componentes reutilizables y experiencias responsive
 Backend         → APIs, lógica de negocio, MVC y persistencia de datos
@@ -30,9 +30,9 @@ Data            → SQL, SQLite, MySQL y estructuras orientadas a sistemas reale
 Workflow        → Git, GitHub, documentación, testing y mejora continua
 AI              → Uso de herramientas de IA como apoyo al desarrollo, sin depender de ellas
 
-🛠️ Tech Stack
+🛠️ <b>Tech Stack</b>
 
-🎨 Front-End
+🎨 <b>Front-End</b>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
